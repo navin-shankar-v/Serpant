@@ -40,7 +40,7 @@ Enemy snakes powered by a **greedy path-finding algorithm** are hunting the same
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/NavinShankar/Sssserpent-Struggle.git
+   git clone https://github.com/navin-shankar-v/Serpant.git
    cd Sssserpent-Struggle
    ```
 
@@ -81,10 +81,10 @@ Building the greedy path-finding algorithm for enemy snakes was the most challen
 
 ## 🚀 Future Roadmap
 
-- [ ] New game modes and challenges
-- [ ] Multiplayer support
-- [ ] Global leaderboard system
-- [ ] Customizable snake skins and themes
+-> New game modes and challenges
+-> Multiplayer support
+-> Global leaderboard system
+-> Customizable snake skins and themes
 
 ---
 
