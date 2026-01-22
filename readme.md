@@ -41,7 +41,7 @@ Enemy snakes powered by a **greedy path-finding algorithm** are hunting the same
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/navin-shankar-v/Serpant.git
-   cd Sssserpent-Struggle
+   cd Serpant
    ```
 
 2. **Install dependencies:**
