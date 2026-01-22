@@ -8,7 +8,7 @@ A modern twist on the classic Snake game, featuring AI-powered enemy snakes that
 
 ## 🎮 About the Game
 
-**Sssserpent Struggle** is a reimagined version of the timeless Snake game. Navigate your snake across the playing field, consume pellets to grow longer, but beware—you're not alone!
+**Serpent** is a reimagined version of the timeless Snake game. Navigate your snake across the playing field, consume pellets to grow longer, but beware—you're not alone!
 
 Enemy snakes powered by a **greedy path-finding algorithm** are hunting the same food. Outsmart them, outmaneuver them, and survive as long as you can!
 
